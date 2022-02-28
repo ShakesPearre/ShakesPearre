@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a developer who loves programming from Saudi Arabia 🇸🇦
 
 **About me**
 
