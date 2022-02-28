@@ -25,4 +25,5 @@ I'm a developer who loves programming from Saudi Arabia 🇸🇦
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=shakespearre&theme=radical&show_icons=true">
+| <a href="https://github.com/shakespearre/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shakespearre&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ShakesPearre's github stats" /></a> | <a href="https://github.com/shakespearre/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakespearre&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
