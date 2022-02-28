@@ -6,7 +6,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 **About me**
 
-- ⚡️ The owner of the Thunder server [Discord](https://discord.gg/thunder/)
+- ⚡️ The owner of the Thunder server [Discord](https://discord.gg/thunder)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
