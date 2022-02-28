@@ -8,7 +8,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - ⚡️ The owner of the Thunder server [Discord](https://discord.gg/thunder)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈 Built music bots for discord, and more
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
