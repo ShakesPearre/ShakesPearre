@@ -6,7 +6,7 @@ I'm a developer who loves programming from Saudi Arabia 🇸🇦
 
 **About me**
 
-- ⚡️ The owner of the Thunder server [Discord](https://discord.gg/thunder)
+- ⚡️ The owner of Thunder server [Discord](https://discord.gg/thunder)
 
 - 📈 Built music bots for discord, and more
 
