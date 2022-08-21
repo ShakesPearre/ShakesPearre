@@ -8,7 +8,7 @@ I'm a developer who loves programming from Saudi Arabia 🇸🇦
 
 - ⚡️ The owner of Thunder server [Discord](https://discord.gg/thunder)
 
-- 📈 Built music bots for discord, and more
+- 📈 Built system bots for discord, and more
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
